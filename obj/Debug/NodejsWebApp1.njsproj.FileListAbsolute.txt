@@ -1,0 +1,2 @@
+C:\Users\pierlag\Documents\GitHub\SampleNodeJSAzure\NodejsWebApp1\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojResolveAssemblyReference.cache
+C:\Users\pierlag\Documents\GitHub\SampleNodeJSAzure\NodejsWebApp1\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
